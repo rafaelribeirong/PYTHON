@@ -84,7 +84,7 @@ if __name__ == "__main__":
             resolver_nome_do_ip(ip_alvo)
         elif opcao == "4":
             testar_multiplos_dispositivos()
-        elif opcao == "5":
+        elif opcao == "5": 
             print("Encerrando o programa.")
             break
         else:
